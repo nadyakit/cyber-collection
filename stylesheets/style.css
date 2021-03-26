@@ -3,10 +3,17 @@ html {
 }
 .shapka {
   background-color: white;
-  position: relative;
+  position: absolute;
   top: 0.5vh;
   width: 99.5vw;
   height: 75vh;
   margin: auto;
   border-radius: 1vw;
+}
+body {
+  font-family: "Roboto", "Arial", sans-serif;
+}
+.PRIVET {
+  font-size: 24px;
+  position: relative;
 }
