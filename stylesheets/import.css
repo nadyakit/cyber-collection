@@ -2,3 +2,8 @@
 @import url("responsive.css");
 @import url("style.css");
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@font-face {
+ font-family: "Metal-6";
+ font-weight: normal;
+ src: url(../fonts/Metal-6.otf) format('opentype'); 
+}
