@@ -4,7 +4,7 @@ html {
 }
 .shapka {
   background-color: white;
-  opacity: .4;
+  /* opacity: .4; */
   position: relative;
   top: 0.5vh;
   width: 98.5vw;
@@ -13,7 +13,7 @@ html {
   border-radius: 1vw;
 }
 body {
-  font-family: "Roboto", "Arial", sans-serif;
+  font-family: "Franklin Gothic Book";
   width: 100%;
   margin: 0;
   position: relative;
@@ -22,7 +22,7 @@ body {
 body::before {
   content: "";
   position: absolute;
-  background: url('../images/1920x1080.png');
+  /* background: url('../images/1920x1080.png'); */
   background-size: 100% auto;
   height: 7737px;
   width: 100%;
@@ -49,4 +49,45 @@ body::before {
   position: relative;
   top: 37.3vh;
   left: 59.5vw;
+}
+.jaba1 {
+  transform: scale(0.88) rotate(18deg);
+  position: relative;
+  display: inline-block;
+  width: 30%;
+  /* float: left; */
+  top: -9vh;
+  left: 2vw;
+}
+.jaba2 {
+  position: relative;
+  display: inline-block;
+  top: -14vh;
+  left: 3vw;
+}
+.jaba3 {
+  transform: scale(0.76) rotate(36deg);
+  position: relative;
+  display: inline-block;
+  top: -9vh;
+  left: 1vw;
+}
+.blocks {
+  margin-top: 11px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.blocks2 {
+  margin-top: 5px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.white {
+  background-color: white;
+  width: 19.5vw;
+  height: 50.5vh;
 }
