@@ -73,14 +73,14 @@ body::before {
   left: 1vw;
 }
 .blocks {
-  margin-top: 11px;
-  border: 1px solid black;
+  margin-top: 8px;
+  border: 3px solid black;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
 }
 .blocks2 {
-  margin-top: 5px;
+  margin-top: 2px;
   border: 1px solid black;
   display: flex;
   flex-direction: row;
