@@ -91,3 +91,9 @@ body::before {
   width: 19.5vw;
   height: 50.5vh;
 }
+.purple {
+  left: -0.5vw;
+  /* opacity: 0.4; */
+  position: relative;
+  top: -5.6vh;
+}
