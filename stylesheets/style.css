@@ -1,24 +1,39 @@
 html {
   background-color: black;
+  overflow-x: hidden;
 }
 .shapka {
   background-color: white;
   position: absolute;
   top: 0.5vh;
-  width: 99.5vw;
+  width: 100vw;
   height: 75vh;
   margin: auto;
   border-radius: 1vw;
 }
 body {
   font-family: "Roboto", "Arial", sans-serif;
-}
-.PRIVET {
-  font-size: 24px;
+  width: 100%;
+  margin: 0;
   position: relative;
+  display: block;
 }
-.PRIVET2 {
+/* body::before {
+  content: "";
+  position: absolute;
+  background: url('images/1920x1080.png');
+  background-size: 100% auto;
+  height: 7737px;
+  width: 1080px;
+  display: block;
+  opacity: .4;
+} */
+.CYBER {
   font-family: "Metal-6";
-  font-size: 24px;
+  font-size: 190px;
   position: relative;
+  top: -1.5vh;
+  left: 1vh;
+  margin-bottom: 10px;
+  line-height: .8;
 }
