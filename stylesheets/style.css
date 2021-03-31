@@ -4,10 +4,11 @@ html {
 }
 .shapka {
   background-color: white;
-  position: absolute;
+  opacity: .4;
+  position: relative;
   top: 0.5vh;
-  width: 100vw;
-  height: 75vh;
+  width: 98.5vw;
+  height: 85vh;
   margin: auto;
   border-radius: 1vw;
 }
@@ -18,22 +19,34 @@ body {
   position: relative;
   display: block;
 }
-/* body::before {
+body::before {
   content: "";
   position: absolute;
-  background: url('images/1920x1080.png');
+  background: url('../images/1920x1080.png');
   background-size: 100% auto;
   height: 7737px;
-  width: 1080px;
+  width: 100%;
   display: block;
   opacity: .4;
-} */
+}
 .CYBER {
   font-family: "Metal-6";
-  font-size: 190px;
+  font-size: 188px;
   position: relative;
   top: -1.5vh;
-  left: 1vh;
+  left: 1.5vh;
   margin-bottom: 10px;
   line-height: .8;
+}
+.aaa {
+  font-size: 37px;
+  position: relative;
+  top: 5vh;
+  left: 24.7vw;
+}
+.bbb {
+  font-size: 37px;
+  position: relative;
+  top: 37.3vh;
+  left: 59.5vw;
 }
