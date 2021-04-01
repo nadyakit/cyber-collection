@@ -164,10 +164,40 @@ body::before {
   transform: rotate(-38deg);
 }
 .stars {
-  position: relative;
+  position: absolute;
   z-index: -100;
-  top: -45.5vh;
-  left: -2.6vw;
-  width: 100%;
-  /* object-fit: cover; */
+  margin-top: -45.5vh;
+  margin-left: -2.5vw;
+}
+.platform1 {
+ position: relative;
+ display: inline-block;
+ left: 0.1vw;
+ top: 125vh;
+}
+.platform2 {
+ position: relative;
+ display: inline-block;
+ left: -9vw;
+ top: 92.5vh;
+}
+.platform3 {
+ position: relative;
+ display: inline-block;
+ left: -7.6vw;
+ top: 60.5vh;
+}
+.platform4 {
+ position: relative;
+ display: inline-block;
+ left: -6.6vw;
+ top: 28vh;
+}
+.platform5 {
+ position: relative;
+ display: inline-block;
+ /* left: -5vw; */
+ right: -44.6vw;
+ top: -232vh;
+ height: 80%;
 }
