@@ -1,0 +1,34 @@
+<svg width="565" height="2707" viewBox="0 0 565 2707" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M565 206.5C565 208.9 450.5 274.5 383.5 307H-4.49988L307.5 192V176.5L565 167.5V206.5Z" fill="white"/>
+<g filter="url(#filter0_d)">
+<ellipse cx="436" cy="185.742" rx="129" ry="36.6172" fill="white"/>
+<rect x="307" y="83.9531" width="258" height="102.125" fill="white"/>
+<path d="M564 83.6172C564 88.1624 560.746 92.7174 554.305 97.0399C547.901 101.338 538.567 105.248 526.944 108.547C503.711 115.142 471.557 119.234 436 119.234C400.443 119.234 368.289 115.142 345.056 108.547C333.433 105.248 324.1 101.338 317.695 97.0399C311.254 92.7174 308 88.1624 308 83.6172C308 79.072 311.254 74.517 317.695 70.1945C324.1 65.8962 333.433 61.9862 345.056 58.6869C368.289 52.0922 400.443 48 436 48C471.557 48 503.711 52.0922 526.944 58.6869C538.567 61.9862 547.901 65.8962 554.305 70.1945C560.746 74.517 564 79.072 564 83.6172Z" fill="white" stroke="black" stroke-width="2"/>
+<line x1="332.188" y1="104.109" x2="332.188" y2="208.25" stroke="black" stroke-width="2"/>
+<line x1="342.266" y1="107.469" x2="342.266" y2="210.938" stroke="black" stroke-width="2"/>
+<line x1="345.125" y1="108.813" x2="345.125" y2="212.281" stroke="black"/>
+<line x1="338.906" y1="107.469" x2="338.906" y2="210.266" stroke="black" stroke-width="2"/>
+<line x1="316.063" y1="96.0469" x2="316.063" y2="200.188" stroke="black" stroke-width="2"/>
+<line x1="346.297" y1="108.813" x2="346.297" y2="212.953" stroke="black" stroke-width="2"/>
+<line x1="352.344" y1="110.828" x2="352.344" y2="214.969" stroke="black" stroke-width="2"/>
+<line x1="367.125" y1="113.516" x2="367.125" y2="217.656" stroke="black" stroke-width="2"/>
+<line x1="533.078" y1="107.469" x2="533.078" y2="210.266" stroke="black" stroke-width="2"/>
+<line x1="539.125" y1="105.453" x2="539.125" y2="208.25" stroke="black" stroke-width="2"/>
+<line x1="529.719" y1="107.469" x2="529.719" y2="210.938" stroke="black" stroke-width="2"/>
+<line x1="522.328" y1="110.828" x2="522.328" y2="214.297" stroke="black" stroke-width="2"/>
+<line x1="498.141" y1="115.531" x2="498.141" y2="219" stroke="black" stroke-width="2"/>
+</g>
+<path d="M-16.9999 2588.5L-24 305L385 305L368 2706.5L-16.9999 2588.5Z" fill="white"/>
+<path d="M379.019 322.517C379.214 317.475 380.899 312.605 383.863 308.522C386.826 304.439 390.934 301.326 395.667 299.579L397.775 305.288C394.172 306.618 391.044 308.988 388.788 312.096C386.532 315.205 385.249 318.913 385.1 322.751L379.019 322.517Z" fill="white"/>
+<defs>
+<filter id="filter0_d" x="163" y="0" width="402" height="271.359" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="-96" dy="1"/>
+<feGaussianBlur stdDeviation="24"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.108203 0 0 0 0 0.0115509 0 0 0 0 0.38329 0 0 0 0.29 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
