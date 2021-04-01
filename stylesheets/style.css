@@ -22,7 +22,7 @@ body {
 body::before {
   content: "";
   position: absolute;
-  /* background: url('../images/1920x1080.png'); */
+  background: url('../images/1920x1080.png');
   background-size: 100% auto;
   height: 7737px;
   width: 100%;
@@ -124,5 +124,50 @@ body::before {
   left: 63.5vw;
 }
 .hello1 {
-
+  position: absolute;
+  color: white;
+  font-size: 36px;
+  transform: rotate(20deg);
+  top: 2vh;
+  left: 15vw;
+}
+.hello2 {
+  position: absolute;
+  color: white;
+  font-size: 36px;
+  top: 10.6vh;
+  left: 35vw;
+  transform: rotate(-40deg);
+}
+.hello3 {
+  position: absolute;
+  color: white;
+  font-size: 36px;
+  top: 44vh;
+  left: 38vw;
+  transform: rotate(-6deg);
+}
+.hello4 {
+  position: absolute;
+  color: white;
+  font-size: 36px;
+  top: 24vh;
+  left: 57.5vw;
+  transform: rotate(10deg);
+}
+.hello5 {
+  position: absolute;
+  color: white;
+  font-size: 36px;
+  top: 3.9vh;
+  left: 66.5vw;
+  transform: rotate(-38deg);
+}
+.stars {
+  position: relative;
+  z-index: -100;
+  top: -45.5vh;
+  left: -2.6vw;
+  width: 100%;
+  /* object-fit: cover; */
 }
