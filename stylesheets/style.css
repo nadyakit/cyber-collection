@@ -22,7 +22,7 @@ body {
 body::before {
   content: "";
   position: absolute;
-  /* background: url('../images/1920x1080.png'); */
+  background: url('../images/1920x1080.png');
   background-size: 100% auto;
   height: 7737px;
   width: 100%;
@@ -93,7 +93,23 @@ body::before {
 }
 .purple {
   left: -0.5vw;
-  /* opacity: 0.4; */
+  opacity: 0.4;
   position: relative;
-  top: -5.6vh;
+  /* top: 1vh; */
+  margin-top: -5.5vh;
+}
+.purple_jaba1 {
+  position: absolute;
+  top: -13.5vh;
+  left: 17vw;
+}
+.purple_jaba2 {
+  position: absolute;
+  top: -12.4vh;
+  left: 64vw;
+}
+.purple_jaba3 {
+  position: absolute;
+  top: 9vh;
+  left: 39vw;
 }
