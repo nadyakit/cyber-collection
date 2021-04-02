@@ -189,10 +189,9 @@ body::before {
   transform: rotate(-38deg);
 }
 .stars {
-
   position: absolute;
   width: 100%;
-  margin-top: -23.8%;
+  top: 33%;
   margin-left: -1.9%;
 }
 
@@ -230,4 +229,13 @@ body::before {
   width: 100%;
   position: absolute;
   top: 66.4%;
+}
+.center_jaba_sss {
+  position: relative;
+}
+.center_jaba_s1 {
+  position: absolute;
+  width: 40%;
+  top: -10%;
+
 }
