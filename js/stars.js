@@ -24,4 +24,7 @@ $(document).ready(function(){
   document.getElementByClass('.stars34').style.opacity=opacity
             }
 
-    setInterval("fade()",120)
+    setInterval(fade, 120);
+  },
+);
+})
