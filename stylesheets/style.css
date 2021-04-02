@@ -200,7 +200,12 @@ body::before {
   top: 40%;
   left: 23%;
 }
-
+.stars34 {
+  position: absolute;
+  width: 90%;
+  top: 35%;
+  left: 5%;
+}
 .group {
   position: relative;
   /* opacity: .4; */
@@ -299,7 +304,13 @@ body::before {
   top: 35.5%;
   left: 44%;
 }
-.slider {
+.knopka {
+  position: absolute;
+  width: 5%;
+  top: 41%;
+  left: 92%;
+}
+/* .slider {
   top: 12%;
   background: white;
   border: 8px solid black;
@@ -326,4 +337,4 @@ body::before {
 }
 .point:hover {
   animation-play-state: paused;
-}
+} */
