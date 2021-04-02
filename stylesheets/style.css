@@ -230,12 +230,12 @@ body::before {
   position: absolute;
   top: 66.4%;
 }
-.center_jaba_sss {
+/* .center_jaba_sss {
   position: relative;
-}
+} */
 .center_jaba_s1 {
   position: absolute;
   width: 40%;
-  top: -10%;
+  top: 10%;
 
 }
