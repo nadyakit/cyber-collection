@@ -194,6 +194,12 @@ body::before {
   top: 33%;
   margin-left: -1.9%;
 }
+.stars12 {
+  position: absolute;
+  width: 25%;
+  top: 40%;
+  left: 23%;
+}
 
 .group {
   position: relative;
