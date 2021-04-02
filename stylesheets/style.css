@@ -10,7 +10,7 @@ body {
   overflow: hidden;
   margin: 0;
   width: 100%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor1.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor1.png"), auto;
   /* position: relative;
   display: block; */
 }
@@ -247,7 +247,7 @@ body::before {
   width: 16%;
   top: -9%;
   left: 43%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png"), auto;
 }
 .center_jaba_s2 {
   position: absolute;
@@ -255,7 +255,7 @@ body::before {
   top: -9%;
   left: 43%;
   visibility: hidden;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png"), auto;
 
 }
 .center_jaba2_s1 {
@@ -263,7 +263,7 @@ body::before {
   width: 16%;
   top: 5%;
   left: 14%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png"), auto;
 
 }
 .center_jaba2_s2 {
@@ -271,7 +271,7 @@ body::before {
   width: 16%;
   top: 5%;
   left: 14%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png"), auto;
 
   /* visibility: hidden; */
 }
@@ -280,7 +280,7 @@ body::before {
   width: 15%;
   top: 18%;
   left: 65%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") ,auto;
 
 }
 .center_jaba3_s2 {
@@ -288,7 +288,7 @@ body::before {
   width: 15%;
   top: 18%;
   left: 65%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") ,auto;
 
 }
 .center_jaba4_s1 {
@@ -296,7 +296,7 @@ body::before {
   width: 15%;
   top: 24.5%;
   left: 25%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png"), auto;
 
 }
 .center_jaba4_s2 {
@@ -304,7 +304,7 @@ body::before {
   width: 15%;
   top: 24.5%;
   left: 25%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png"), auto;
 
 }
 .center_jaba5_s1 {
@@ -312,7 +312,7 @@ body::before {
   width: 15%;
   top: 35.5%;
   left: 44%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png"), auto;
 
 }
 .center_jaba5_s2 {
@@ -320,7 +320,7 @@ body::before {
   width: 15%;
   top: 35.5%;
   left: 44%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png")  auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png"), auto;
 
 }
 .knopka {
@@ -328,7 +328,7 @@ body::before {
   width: 5%;
   top: 41%;
   left: 92%;
-  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png") auto;
+  cursor: url("https://raw.githubusercontent.com/nadyakit/cyber-collection/main/images/cursor2.png"), auto;
 
 }
 /* cursor:active */
