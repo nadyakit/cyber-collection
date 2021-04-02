@@ -42,6 +42,7 @@ body::before {
   width: 100%;
   display: block;
   opacity: .4;
+  cursor: url("../images/cursor1.png")
 }
 .shapka {
   background-color: white;
@@ -247,6 +248,7 @@ body::before {
   width: 16%;
   top: -9%;
   left: 43%;
+  cursor: url("../images/cursor2.png")
 }
 .center_jaba_s2 {
   position: absolute;
@@ -254,18 +256,24 @@ body::before {
   top: -9%;
   left: 43%;
   visibility: hidden;
+  cursor: url("../images/cursor2.png")
+
 }
 .center_jaba2_s1 {
   position: absolute;
   width: 16%;
   top: 5%;
   left: 14%;
+  cursor: url("../images/cursor2.png")
+
 }
 .center_jaba2_s2 {
   position: absolute;
   width: 16%;
   top: 5%;
   left: 14%;
+  cursor: url("../images/cursor2.png")
+
   /* visibility: hidden; */
 }
 .center_jaba3_s1 {
@@ -273,43 +281,58 @@ body::before {
   width: 15%;
   top: 18%;
   left: 65%;
+  cursor: url("../images/cursor2.png")
+
 }
 .center_jaba3_s2 {
   position: absolute;
   width: 15%;
   top: 18%;
   left: 65%;
+  cursor: url("../images/cursor2.png")
+
 }
 .center_jaba4_s1 {
   position: absolute;
   width: 15%;
   top: 24.5%;
   left: 25%;
+  cursor: url("../images/cursor2.png")
+
 }
 .center_jaba4_s2 {
   position: absolute;
   width: 15%;
   top: 24.5%;
   left: 25%;
+  cursor: url("../images/cursor2.png")
+
 }
 .center_jaba5_s1 {
   position: absolute;
   width: 15%;
   top: 35.5%;
   left: 44%;
+  cursor: url("../images/cursor2.png")
+
 }
 .center_jaba5_s2 {
   position: absolute;
   width: 15%;
   top: 35.5%;
   left: 44%;
+  cursor: url("../images/cursor2.png")
+
 }
 .knopka {
   position: absolute;
   width: 5%;
   top: 41%;
   left: 92%;
+  cursor: url("../images/cursor2.png")
+
 }
+/* cursor:active */
 /* .slider {
   top: 12%;
   background: white;
