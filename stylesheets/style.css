@@ -1,212 +1,233 @@
 html {
   background-color: black;
   overflow-x: hidden;
+  width: 100%;
+
 }
 body {
   font-family: "Franklin Gothic Book";
-  width: 100%;
-  height: 7680px;
+  /* height: 7680px; */
   overflow: hidden;
   margin: 0;
-  position: relative;
-  display: block;
+  width: 100%;
+
+  /* position: relative;
+  display: block; */
 }
+.wrapper {
+  position: relative;
+  width: 100%;
+  background: transparent;
+  overflow: hidden;
+}
+.ratio {
+  position: relative;
+  padding-bottom: 402.96875%;
+  background: transparent;
+}
+.content {
+  position: absolute;
+  top: 0; bottom: 0; left: 0; right: 0; padding: 0;
+  background: transparent;
+}
+
+img { width: 100%; height: auto;}
+
 body::before {
   content: "";
   position: absolute;
   /* background: url('../images/1920x1080.png'); */
   background-size: 100% auto;
-  height: 7737px;
+  height: 7668px;
   width: 100%;
   display: block;
   opacity: .4;
 }
 .shapka {
   background-color: white;
-  /* opacity: .4; */
   position: relative;
-  top: 0.5vh;
-  width: 98.5vw;
-  height: 85vh;
+  /* opacity: .4; */
+  top: .05%;
+  width: 99.5%;
+  height: 10.34%;
   margin: auto;
-  border-radius: 1vw;
+  border-radius: 2%;
+  margin-bottom: .7%;
 }
 
 .CYBER {
   font-family: "Metal-6";
-  font-size: 188px;
+  font-size: 186px;
   position: relative;
-  top: -1.5vh;
-  left: 1.5vh;
-  margin-bottom: 10px;
+  top: -2.3%;
+  left: 1.7%;
   line-height: .8;
 }
 .aaa {
-  font-size: 37px;
+  font-size: 36px;
   position: relative;
-  top: 5vh;
-  left: 24.7vw;
+  top: 8%;
+  left: 25.2%;
 }
 .bbb {
-  font-size: 37px;
+  font-size: 36px;
   position: relative;
-  top: 37.3vh;
-  left: 59.5vw;
+  top: 45.9%;
+  left: 60.3%;
 }
 .jaba1 {
-  transform: scale(0.88) rotate(18deg);
-  position: relative;
+  transform: rotate(18deg);
+  position: absolute;
   display: inline-block;
   width: 30%;
-  /* float: left; */
-  top: -9vh;
-  left: 2vw;
+  top: 40%;
+  left: 4%;
 }
 .jaba2 {
-  position: relative;
+  position: absolute;
   display: inline-block;
-  top: -14vh;
-  left: 3vw;
+  width: 34%;
+  top: 33.5%;
+  left: 33.5%;
 }
 .jaba3 {
-  transform: scale(0.76) rotate(36deg);
-  position: relative;
+  transform: rotate(29deg);
+  position: absolute;
   display: inline-block;
-  top: -9vh;
-  left: 1vw;
+  width: 26%;
+  top: 47%;
+  left: 69%;
 }
 .blocks {
-  margin-top: 8px;
+  /* opacity: .4; */
+  margin-top: .5%;
+  height: 6.1%;
+  width: 100%
   border: 3px solid black;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-}
-.blocks2 {
-  margin-top: 2px;
-  border: 1px solid black;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
 }
 .white {
   background-color: white;
-  width: 19.5vw;
-  height: 50.5vh;
+  width: 19.5%;
+  height: 100%;
 }
 .purple {
-  left: -0.5vw;
   /* opacity: 0.4; */
   position: relative;
-  /* top: 1vh; */
-  margin-top: -5.5vh;
+  top: -0.5%;
 }
 .purple_jaba1 {
   position: absolute;
-  top: -13.5vh;
-  left: 17vw;
+  width: 24%;
+  top: -12.7%;
+  left: 16.5%;
 }
 .purple_jaba2 {
   position: absolute;
-  top: -12.4vh;
-  left: 64vw;
+  width: 22.4%;
+  top: -9.9%;
+  left: 64.2%;
 }
 .purple_jaba3 {
   position: absolute;
-  top: 9vh;
-  left: 39vw;
+  width: 24%;
+  top: 9%;
+  left: 40%;
 }
 .purple_jaba4 {
   position: absolute;
-  top: 77vh;
-  left: 6vw;
+  top: 61%;
+  width: 24%;
+  left: 6%;
 }
 .purple_jaba5 {
   position: absolute;
-  top: 87vh;
-  left: 63.5vw;
+  width: 35%;
+  top: 68%;
+  left: 63%;
 }
 .hello1 {
   position: absolute;
   color: white;
   font-size: 36px;
   transform: rotate(20deg);
-  top: 2vh;
-  left: 15vw;
+  top: 1%;
+  left: 14.5%;
 }
 .hello2 {
   position: absolute;
   color: white;
   font-size: 36px;
-  top: 10.6vh;
-  left: 35vw;
+  top: 8.5%;
+  left: 35%;
   transform: rotate(-40deg);
 }
 .hello3 {
   position: absolute;
   color: white;
   font-size: 36px;
-  top: 44vh;
-  left: 38vw;
+  top: 35%;
+  left: 39%;
   transform: rotate(-6deg);
 }
 .hello4 {
   position: absolute;
   color: white;
   font-size: 36px;
-  top: 24vh;
-  left: 57.5vw;
+  top: 19%;
+  left: 57.5%;
   transform: rotate(10deg);
 }
 .hello5 {
   position: absolute;
   color: white;
   font-size: 36px;
-  top: 3.9vh;
-  left: 66.5vw;
+  top: 2.3%;
+  left: 66.5%;
   transform: rotate(-38deg);
 }
 .stars {
+
   position: absolute;
-  z-index: -100;
-  margin-top: -45.5vh;
-  margin-left: -2.5vw;
+  width: 100%;
+  margin-top: -23.8%;
+  margin-left: -1.9%;
 }
-.platform1 {
- position: relative;
- display: inline-block;
- left: 0.1vw;
- top: 125vh;
-}
-.platform2 {
- position: relative;
- display: inline-block;
- left: -9vw;
- top: 92.5vh;
-}
-.platform3 {
- position: relative;
- display: inline-block;
- left: -7.6vw;
- top: 60.5vh;
-}
-.platform4 {
- position: relative;
- display: inline-block;
- left: -6.6vw;
- top: 28vh;
-}
-.platform5 {
- position: relative;
- display: inline-block;
- /* left: -5vw; */
- right: -44.6vw;
- top: -232vh;
-}
-.purple2 {
+
+.group {
   position: relative;
-  z-index: -10;
-  top: -277.6vh;
-  left: -0.3vw;
-  margin-bottom: 0;
+  /* opacity: .4; */
+  top: 7%;
+}
+
+.purple2_jaba1 {
+  position: absolute;
+  width: 28%;
+  top: 63%;
+  left: 17.8%;
+}
+.purple2_jaba2 {
+  position: absolute;
+  width: 40%;
+  top: 51%;
+  left: 58%;
+}
+.purple2_jaba3 {
+  position: absolute;
+  width: 16%;
+  top: 72.2%;
+  left: 57.8%;
+}
+.logo {
+  position: absolute;
+  width: 23%;
+  top: 86%;
+  left: 2.5%;
+}
+.polosi {
+  width: 100%;
+  position: absolute;
+  top: 66.4%;
 }
