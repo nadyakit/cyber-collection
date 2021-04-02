@@ -244,3 +244,17 @@ body::before {
   left: 43%;
   visibility: hidden;
 }
+.center_jaba2_s1 {
+  position: absolute;
+  width: 16%;
+  top: 5%;
+  left: 14%;
+}
+.center_jaba2_s2 {
+  position: absolute;
+  width: 16%;
+  top: 5%;
+  left: 14%;
+  /* visibility: hidden; */
+
+}
