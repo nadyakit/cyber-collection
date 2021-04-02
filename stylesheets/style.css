@@ -256,5 +256,40 @@ body::before {
   top: 5%;
   left: 14%;
   /* visibility: hidden; */
-
+}
+.center_jaba3_s1 {
+  position: absolute;
+  width: 15%;
+  top: 18%;
+  left: 65%;
+}
+.center_jaba3_s2 {
+  position: absolute;
+  width: 15%;
+  top: 18%;
+  left: 65%;
+}
+.center_jaba4_s1 {
+  position: absolute;
+  width: 15%;
+  top: 24.5%;
+  left: 25%;
+}
+.center_jaba4_s2 {
+  position: absolute;
+  width: 15%;
+  top: 24.5%;
+  left: 25%;
+}
+.center_jaba5_s1 {
+  position: absolute;
+  width: 15%;
+  top: 35.5%;
+  left: 44%;
+}
+.center_jaba5_s2 {
+  position: absolute;
+  width: 15%;
+  top: 35.5%;
+  left: 44%;
 }
