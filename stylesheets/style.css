@@ -230,12 +230,17 @@ body::before {
   position: absolute;
   top: 66.4%;
 }
-/* .center_jaba_sss {
-  position: relative;
-} */
+
 .center_jaba_s1 {
   position: absolute;
-  width: 40%;
-  top: 10%;
-
+  width: 16%;
+  top: -9%;
+  left: 43%;
+}
+.center_jaba_s2 {
+  position: absolute;
+  width: 16%;
+  top: -9%;
+  left: 43%;
+  visibility: hidden;
 }
